@@ -1,4 +1,7 @@
 # Recommendation Model
+##Disclaimer 
+Some of the code was taken from oustide sources and the uploaded files are not in order.
+please contact me if there is a ny error.
 ## Overview
 This is an implementation of the Neural Collaborative Filtering (NCF) framework with Neural Matrix Factorization (NeuMF) model as described in the [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031) paper. Current implementation is based on the code from the authors' [NCF code](https://github.com/hexiangnan/neural_collaborative_filtering) and the Stanford implementation in the [MLPerf Repo](https://github.com/mlperf/reference/tree/master/recommendation/pytorch).
 
